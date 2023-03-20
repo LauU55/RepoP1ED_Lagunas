@@ -5,8 +5,9 @@ public class Principal {
 
 		System.out.println("Programa que nos permitirá"
 				+ " hacer un control de versiones "
-				+ "con Git");
-
+				+ "con Git"
+				+" nuevo cambio");
+		
 	}
 
 }
